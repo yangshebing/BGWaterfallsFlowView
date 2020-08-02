@@ -23,7 +23,8 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, '8.0'
   #使用的是ARC
   spec.requires_arc = true
-
+  #指定swift版本
+  spec.swift_version = '5.0'
   spec.dependency 'SDWebImage', '~> 5.7.3'
 
 end
