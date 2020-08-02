@@ -1,4 +1,4 @@
-##BGWaterfallsFlowView使用方法
+## BGWaterfallsFlowView使用方法
 （1）初始化瀑布流控件视图
 
 ```   

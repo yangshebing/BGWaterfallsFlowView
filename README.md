@@ -6,8 +6,8 @@
   - 上下拉刷新加载数据
   
 ## 环境要求
-  - iOS8.0+    
-  - Xcod11.0+
+  - iOS 8.0+    
+  - Xcode 11.0+
  
 ## Installation
 #### CocoaPods:
@@ -86,7 +86,9 @@ func waterfallsFlowView(_ waterfallsFlowView: BGWaterfallsFlowView, didSelectIte
 }
 ```
 ## Demo效果截图
+
 ![](http://ww1.sinaimg.cn/mw690/7f266405jw1ey22tbuohvg20ab0inqva.gif)
+
 
 ## 协议许可
 BGWaterfallsFlowView遵循MIT许可协议。有关详细信息,请参阅许可协议。
