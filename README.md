@@ -87,7 +87,7 @@ func waterfallsFlowView(_ waterfallsFlowView: BGWaterfallsFlowView, didSelectIte
 ```
 ## Demo效果截图
 
-![](http://ww1.sinaimg.cn/mw690/7f266405jw1ey22tbuohvg20ab0inqva.gif)
+[![WpYHzQ.gif](https://z3.ax1x.com/2021/07/10/WpYHzQ.gif)](https://imgtu.com/i/WpYHzQ)
 
 
 ## 协议许可
